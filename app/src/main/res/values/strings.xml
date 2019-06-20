@@ -1,0 +1,59 @@
+<resources>
+    <string name="app_name">Online shopping</string>
+    <string name="title_activity_login">Sign in</string>
+    <string name="choose_category">you can choose category from the side of the screen</string>
+    <string name="make_order">Make order</string>
+    <string name="show_orders">Show orders</string>
+    <string name="edit_order">Edit order</string>
+    <string name="log_out">Log out</string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+    <string name="your_name">Your Name</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="enter_your_job">Enter your job</string>
+    <string name="typing_search">typing search</string>
+    <string name="barcode_search">barcode search</string>
+    <string name="voice_search">voice search</string>
+    <string name="Buy">TAKE UP</string>
+    <string name="search">search</string>
+    <string-array name="gender">
+        <item>Male</item>
+        <item>Female</item>
+    </string-array>
+    <string name="title_activity_maps">Map</string>
+    <string name="sign_up">Sign UP</string>
+    <string name="birth_date">Birth Date</string>
+    <string name="remember_me">Remember me</string>
+    <string name="todo">logo</string>
+    <string name="logo">logo</string>
+    <string name="home">Home</string>
+    <string name="typing">Typing</string>
+    <string name="voice">Voice</string>
+    <string name="camera">Camera</string>
+    <string name="tell_me_a_secret">tell me a secret</string>
+    <string name="total_price_goes_here">Total Price Goes Here</string>
+    <string name="show_map">Show Map</string>
+    <string name="delete_account">Delete Account</string>
+    <string name="products_categories">Products Categories</string>
+    <string name="apple">Apple</string>
+    <string name="supplements">Supplements</string>
+    <string name="makeup">Makeup</string>
+    <string name="leather">Leather</string>
+    <string name="laptops">Laptops</string>
+    <string name="kitchen">Kitchen</string>
+    <string name="innovative">Innovative</string>
+    <string-array name="categories_list">
+        <item></item>
+        <item>apple</item>
+        <item>innovative</item>
+        <item>kitchen</item>
+        <item>laptop</item>
+        <item>leather</item>
+        <item>makeup</item>
+        <item>supplement</item>
+    </string-array>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="shopping_now_becomes_so_much_easer">shopping now has become so much easier</string>
+</resources>

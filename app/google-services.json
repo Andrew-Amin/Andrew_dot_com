@@ -1,0 +1,77 @@
+{
+  "project_info": {
+    "project_number": "938705391858",
+    "firebase_url": "https://onlineshopping-eb075.firebaseio.com",
+    "project_id": "onlineshopping-eb075",
+    "storage_bucket": "onlineshopping-eb075.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:938705391858:android:5e9f58982310a855",
+        "android_client_info": {
+          "package_name": "com.example.andrew.andrew_dot_com"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "938705391858-ojj6kgr5tbat7sfmlo7bj7rkeb568uhk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.andrew.andrew_dot_com",
+            "certificate_hash": "c794c7888ff54994efdde53e9ff0d00bf5ccae6c"
+          }
+        },
+        {
+          "client_id": "938705391858-3v28tfsi0ffupv0uq2nrfomona6b4dq9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCg58EsuqdBIIY_usTWifOYfeM3vSiNO4w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "938705391858-3v28tfsi0ffupv0uq2nrfomona6b4dq9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:938705391858:android:c1dd6af30dc0c7d0",
+        "android_client_info": {
+          "package_name": "com.example.andrew.onlineshopping"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "938705391858-3v28tfsi0ffupv0uq2nrfomona6b4dq9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCg58EsuqdBIIY_usTWifOYfeM3vSiNO4w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "938705391858-3v28tfsi0ffupv0uq2nrfomona6b4dq9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

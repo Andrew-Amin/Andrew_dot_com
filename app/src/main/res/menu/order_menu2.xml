@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+        <item
+            android:id="@+id/Home_id"
+            android:icon="@drawable/baseline_home_black_24dp"
+            android:title="@string/home" />
+
+        <item
+            android:id="@+id/make_id"
+            android:icon="@drawable/baseline_add_shopping_cart_black_24dp"
+            android:title="@string/make_order" />
+
+        <item
+            android:id="@+id/show_id"
+            android:icon="@drawable/baseline_slideshow_black_24dp"
+            android:title="@string/show_orders" />
+
+        <item
+            android:id="@+id/edit_id"
+            android:icon="@drawable/baseline_note_add_black_24dp"
+            android:title="@string/edit_order" />
+
+        <item
+            android:id="@+id/show_map_id"
+            android:icon="@drawable/baseline_person_pin_circle_black_24dp"
+            android:title="@string/show_map" />
+
+
+</menu>
